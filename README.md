@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @laurenx1
 - 👀 I’m interested in AI, fintech, femtech, and learning new machine-learning efficient languages (Common Lisp, Julia)
-- 🌱 I’m currently learning about XMem, Detic, and CLIP and AudioCLIP (openai)
-- 💞️ I’m looking to collaborate on any cool ML projects, especially those with computer vision!
+- 🌱 I’m currently learning about XMem, Detic, and CLIP and AudioCLIP (openai), as well as quant research. 
+- 💞️ I’m looking to collaborate on any cool ML or fintech projects, especially those with computer vision!
 - 📫 How to reach me: lpryor@caltech.edu
 
 <!---

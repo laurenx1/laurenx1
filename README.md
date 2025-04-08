@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @laurenx1
-- 👀 I’m interested in ViTs (vision transformers) and learning new machine-learning efficient languages (Common Lisp, Julia)
-- 🌱 I’m currently learning about DeiTs, neovim, and algorithmic trading. Additionally, I'm learning about full stack development in JS and React. 
-- 💞️ I’m looking to collaborate on any cool ML or fintech projects!
+- 👀 I’m interested in impact tech for textile sustainability and bias in news + information delivery within media
+- 🌱 I’m currently learning about sports statistics, algorithmic trading, and accessibility in ux/ui design. Additionally, I'm learning about full stack development in JS and React. 
+- 💞️ I’m looking to collaborate on any cool ML, fintech, design, or sustainability projects!
 - 📫 How to reach me: lpryor@caltech.edu
 
 <!---
